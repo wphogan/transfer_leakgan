@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9bd24fe8-6323-4cf3-83ed-7fd0564a3c35" name="UCSD DSMLP" url="http://xx.xx.xx">
+        <fileTransfer rootFolder="/dsmlp/datasets/home/home-00/08/008/whogan" accessType="SFTP" host="dsmlp-login.ucsd.edu" port="22" sshConfigId="72dff1f0-0ad1-489f-968f-2935bb2f0877" sshConfig="whogan@dsmlp-login.ucsd.edu:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
